@@ -968,7 +968,7 @@ exports = module.exports = Mocha;
 
 exports.utils = utils;
 exports.interfaces = require('./interfaces');
-exports.reporters = require('./reporters');
+exports.reporters = require('./lib/reporters');
 exports.Runnable = require('./runnable');
 exports.Context = require('./context');
 exports.Runner = require('./runner');
