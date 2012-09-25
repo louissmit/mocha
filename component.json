@@ -1,6 +1,7 @@
 {
   "name": "mocha",
   "repo": "visionmedia/mocha",
+	"main": ["libs/mocha.js"]
   "version": "1.5.0",
   "description": "simple, flexible, fun test framework",
   "keywords": ["test", "mocha", "bdd", "tdd"],
